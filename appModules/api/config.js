@@ -1,4 +1,4 @@
-const BASE_URL = 'http://api-code-2.placticum-team.ru';
+const BASE_URL = 'https://api-code-2.practicum-team.ru';
 
 const endpoints = {
     games: `${BASE_URL}/games`
